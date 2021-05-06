@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammadzaenalrizki a web developer
+- 👋 Hi, I’m zaenal a web developer
 - 👀 I’m interested in a develop website
 - 🌱 I’m currently learning php and javascript
 
